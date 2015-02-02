@@ -3,6 +3,9 @@
     <string name="app_name">亲爱的</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-    <string name="loveWord">亲爱的，有些话，已藏在心头很久，今天，想问你，我可以牵你的手吗？</string>
+    <string name="loveWord">亲爱的，有些话已藏在心头很久，我发现我喜欢上了你，我们在一起吧</string>
     <string name="wonderfulLabel">亲，太棒了 ！爱你！^</string>
+    <string name="clickYesMsg">她点击了Yes！</string>
+    <string name="clickNoMsg">对方点击了%1$s次 No</string>
+    <string name="checkNetworkTips">请检查网络连接</string>
 </resources>

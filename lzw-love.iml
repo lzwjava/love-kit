@@ -7,7 +7,9 @@
       </configuration>
     </facet>
   </component>
-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$USER_HOME$/workpace/lzw-love/bin" />
+    <output-test url="file://$USER_HOME$/worksout/test/lzw-love" />
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
@@ -15,15 +17,20 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="avoscloud" />
+    <orderEntry type="module" module-name="avospush" />
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/libs/classes_dex2jar.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/butterknife-6.0.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module" module-name="lzw_commons" />
+    <orderEntry type="module" module-name="lzw-love-base" />
+    <orderEntry type="library" name="fastjson" level="application" />
   </component>
 </module>
 
